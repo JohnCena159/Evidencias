@@ -1,0 +1,17 @@
+Algoritmo para enamorar a una chica
+
+1)Entrada
+-Visualizar a la chica
+-Identificar a la chica
+
+2)Proceso
+-Acercarse a hablarle
+-Evaluar la situación
+-Invitarla a salir
+-Conocer los aspectos que se consideren claves en la chica
+-Conseguir la confianza de la chica
+-En el transcurso del tiempo ir haciendo cosas relacionadas a lo que ella se siente a gusto
+-Declarar la intención
+
+3)Salida
+-La chica enamorada
