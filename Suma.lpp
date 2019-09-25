@@ -1,0 +1,12 @@
+entero a,b,c
+inicio
+escriba "Suma de dos numeros"
+llamar nueva_linea
+escriba "Digite el primer numero "
+lea a
+llamar nueva_linea
+escriba "Digite el segundo numero "
+lea b
+c<-a+b
+escriba "La suma es: ",c
+fin
