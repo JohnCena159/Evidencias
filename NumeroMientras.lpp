@@ -1,0 +1,12 @@
+Real Numero
+Inicio
+ Escriba "Ingrese un numero: "
+ Lea Numero
+ Mientras (Numero<>5)Haga
+  Escriba "No se ingreso el 5"
+  Llamar Nueva_linea
+  Escriba "Ingrese un numero de nuevo: "
+  Lea Numero
+ Fin Mientras
+ Escriba "Correcto, ingresaste 5"
+Fin  
