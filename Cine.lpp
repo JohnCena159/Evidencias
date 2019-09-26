@@ -1,0 +1,39 @@
+Real Cedula
+Inicio
+ Escriba "Por favor ingrese su edad:"
+ Llamar Nueva_linea
+ Lea Cedula
+ Si (Cedula>90)Entonces
+  Escriba "Ingresa a cine anciano"
+  Sino
+  Si (Cedula>70)Entonces
+   Escriba "Ingresa a cine viejo"
+   Sino
+   Si (Cedula>60)Entonces
+    Escriba "Ingresa a cine tercera edad"
+    Sino
+    Si (Cedula>28)Entonces
+     Escriba "Ingresa a cine adulto mayor"
+     Sino
+     Si (Cedula>17)Entonces
+      Escriba "Ingresa a cine adulto"
+      Sino
+      Si (Cedula>10)Entonces
+       Escriba "Ingresa a cine adolecente"
+       Sino
+       Si (Cedula>1)Entonces
+        Escriba "Ingresa a cine infantil"
+        Sino
+        Si (Cedula>0)Entonces
+         Escriba "Ingresa a cine bebe"
+         Sino
+         Escriba "Edad no valida"
+        Fin Si
+       Fin Si  
+      Fin Si
+     Fin Si
+    Fin Si
+   Fin Si
+  Fin Si
+ Fin Si    
+Fin  
