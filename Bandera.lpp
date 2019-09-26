@@ -1,0 +1,21 @@
+Entero Numero, Suma
+Cadena [2] Bandera
+Inicio
+ Numero<-1
+ Suma<-0
+ Bandera<-"T"
+ Mientras Numero<7 Haga
+  Suma<-Suma+Numero
+  Escriba Numero," "
+  Si Bandera="T" Entonces
+   Numero<-Numero+3
+   Bandera<-"F"
+  Sino
+   Numero<-Numero+2
+   Bandera<-"T"
+  Fin Si
+ Fin Mientras
+ Escriba Suma
+ Llamar Nueva_Linea
+ Escriba Bandera
+Fin                                                                                                                                           
