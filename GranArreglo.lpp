@@ -1,0 +1,44 @@
+Arreglo [5] de entero Cifra
+Arreglo [5] de caracter Car
+Arreglo [5] de real Rea
+Arreglo [5] de cadena [10] Caden
+Entero N
+Inicio
+ Escriba "Arreglo de enteros, reales, caracteres y cadenas"
+ llamar nueva_linea
+ Para N<-1 hasta 5 haga
+  Escriba "Digite un numero entero: "
+  Lea Cifra[N]
+ Fin Para
+ Para N<-1 hasta 5 haga
+  Escriba Cifra[N]
+  Llamar Nueva_Linea
+ Fin Para
+ 
+ Para N<-1 hasta 5 haga
+  Escriba "Digite un carcater: "
+  Lea Car[N]
+ Fin Para
+ Para N<-1 hasta 5 haga
+  Escriba Car[N]
+  Llamar Nueva_Linea
+ Fin Para
+ 
+ Para N<-1 hasta 5 haga
+  Escriba "Digite un numero real: "
+  Lea Rea[N]
+ Fin Para
+ Para N<-1 hasta 5 haga
+  Escriba Rea[N]
+  Llamar Nueva_Linea
+ Fin Para
+ 
+ Para N<-1 hasta 5 haga
+  Escriba "Digite un nombre: "
+  Lea Caden[N]
+ Fin Para
+ Para N<-1 hasta 5 haga
+  Escriba Caden[N]
+  Llamar Nueva_Linea
+ Fin Para 
+Fin  
