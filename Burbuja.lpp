@@ -1,0 +1,23 @@
+arreglo [5] de entero vector,vec2
+entero i,j,k,aux
+inicio
+escriba "ordenar los numeros de un vector de forma ascendente."
+llamar nueva_Linea
+para i<-1 hasta 5 haga
+	escriba "ingrese el siguiente numero: "
+	lea vector[i]
+	fin para
+	para j<-0 hasta 5 haga
+		para k<-1 hasta 5 haga
+		si vector[k]>vector[k+1] entonces
+		aux<-vector[k]
+		vector[k]<-vector[k+1]
+		vector[k+1]<-aux
+		fin si
+		fin para
+	fin para
+para i<-1 hasta 6 haga
+escriba "posicion '",i,"' es: ",vector[i]
+llamar nueva_linea
+fin para
+fin
