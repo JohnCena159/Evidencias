@@ -1,0 +1,8 @@
+Entero i
+Inicio
+ i<-5
+ Para i<-1 hasta 10 haga
+  Escriba i
+  Llamar Nueva_Linea
+ Fin Para
+Fin  
