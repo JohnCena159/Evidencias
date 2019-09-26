@@ -1,0 +1,23 @@
+Caracter R
+Real N
+Entero G,P
+Inicio
+ G<-0
+ P<-0
+ Repita
+  Escriba "Ingrese la nota: "
+  Lea N
+  Si (N>=60)entonces
+   G<-G+1
+  Sino
+   P<-P+1
+  Fin Si
+  Repita
+   Escriba "¿Desea continuar? Si(s)/No(N): "
+   Lea R
+  Hasta (R='N') o (R='S')
+ Hasta (R='N')
+ Escriba "Total aprobados: ",G
+ Llamar Nueva_Linea
+ Escriba "Total reprobados:",P
+Fin  
