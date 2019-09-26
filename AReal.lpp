@@ -1,0 +1,17 @@
+Arreglo [8] de real cifra
+Entero N
+Inicio
+ Cifra[1]<-1.3
+ Cifra[2]<-2.0
+ Cifra[5]<-3.4
+ Cifra[3]<-4.9
+ Cifra[4]<-5.5
+ Cifra[8]<-6
+ Cifra[6]<-7
+ Cifra[7]<-9
+ Cifra[9]<-8
+ Para N<-1 hasta 8 haga
+  Escriba Cifra[N]
+  Llamar Nueva_Linea
+ Fin Para
+Fin  
